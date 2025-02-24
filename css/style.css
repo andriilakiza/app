@@ -1,0 +1,14 @@
+header {
+  background-color: black;
+}
+
+h1 {
+  color: rgb(228, 13, 13);
+}
+
+body {
+  font-style: 20px;
+}
+body div {
+  font-style: 10px;
+}
